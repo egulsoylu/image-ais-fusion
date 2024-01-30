@@ -8,4 +8,4 @@
 
 This is the repository for *[Image and AIS Data Fusion Technique for Maritime Computer Vision Applications](https://openaccess.thecvf.com/content/WACV2024W/MaCVi/html/Gulsoylu_Image_and_AIS_Data_Fusion_Technique_for_Maritime_Computer_Vision_WACVW_2024_paper.html)*
 
-The dataset and the demo will be uploaded on 28 January 2023, one week after MaCVi@WACV2024.
+The dataset and the demo will be uploaded on 10 February 2024, one week after MaCVi@WACV2024.
