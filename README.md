@@ -8,4 +8,4 @@
 
 This is the repository for *[Image and AIS Data Fusion Technique for Maritime Computer Vision Applications](https://openaccess.thecvf.com/content/WACV2024W/MaCVi/html/Gulsoylu_Image_and_AIS_Data_Fusion_Technique_for_Maritime_Computer_Vision_WACVW_2024_paper.html)*
 
-The dataset cannot be shared at the moment as approval from the institution is pending. However, it will be added in the future.
+The dataset cannot be shared as the approval from the institution is pending. Alternatively, you can check this similar and [publicly available dataset, BONK-pose](https://fabianholst.github.io/BONK-pose/). This dataset provides 2D bounding boxes for object detection, AIS messages, and also 3D bounding boxes for vessel 6D pose estimation.
