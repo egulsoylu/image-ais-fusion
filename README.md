@@ -6,6 +6,13 @@
 
 [![PWC](https://img.shields.io/badge/%F0%9F%93%8E%20arXiv-Paper-red)](https://arxiv.org/abs/2312.05270)
 
-This is the repository for *[Image and AIS Data Fusion Technique for Maritime Computer Vision Applications](https://openaccess.thecvf.com/content/WACV2024W/MaCVi/html/Gulsoylu_Image_and_AIS_Data_Fusion_Technique_for_Maritime_Computer_Vision_WACVW_2024_paper.html)*
+This repository contains the resources for the paper titled "*[Image and AIS Data Fusion Technique for Maritime Computer Vision Applications](https://openaccess.thecvf.com/content/WACV2024W/MaCVi/html/Gulsoylu_Image_and_AIS_Data_Fusion_Technique_for_Maritime_Computer_Vision_WACVW_2024_paper.html)*" presented at 2nd Workshop on Maritime Computer Vision (MaCVi) at WACV 2024. 
 
-The dataset cannot be shared as the approval from the institution is pending. Alternatively, you can check this similar and [publicly available dataset](https://fabianholst.github.io/BONK-pose/). BONK-pose dataset provides 2D bounding boxes for object detection, AIS messages, and also 3D bounding boxes for vessel 6D pose estimation.
+<h2>Dataset</h2>
+The AIS data used in this study cannot be shared publicly as the approval from the institution is still pending. However, the images and the 2D bounding box annotations are available for [download here](https://cloud.uni-hamburg.de/public.php/dav/files/iDaLktet82Ld5rb/?accept=zip).
+
+<h2>Alternative Dataset</h2>
+If you are looking for a similar and publicly available dataset, you can check out the [BONK-pose](https://fabianholst.github.io/BONK-pose/) dataset. The BONK-pose dataset provides:
+- 3D bounding boxes for vessel 6D pose estimation
+- Related AIS data
+- 2D bounding boxes for ship detection
