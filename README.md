@@ -13,6 +13,8 @@ The AIS data used in this study cannot be shared publicly as the approval from t
 
 <h2>Alternative Dataset</h2>
 If you are looking for a similar and publicly available dataset, you can check out the [BONK-pose](https://fabianholst.github.io/BONK-pose/) dataset. The BONK-pose dataset provides:
-- 3D bounding boxes for vessel 6D pose estimation
-- Related AIS data
-- 2D bounding boxes for ship detection
+<ul>
+  <li>3D bounding boxes for vessel 6D pose estimation</li>
+  <li>Related AIS data</li>
+  <li>2D bounding boxes for ship detection</li>
+</ul>
