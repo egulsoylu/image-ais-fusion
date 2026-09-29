@@ -6,8 +6,6 @@
 
 [![PWC](https://img.shields.io/badge/%F0%9F%93%8E%20arXiv-Paper-red)](https://arxiv.org/abs/2312.05270)
 
-[![PWC](https://img.shields.io/badge/Paper-IEEE_JOE-blue)](https://ieeexplore.ieee.org/abstract/document/11570774)
-
 This repository contains the resources for the paper titled "*[Image and AIS Data Fusion Technique for Maritime Computer Vision Applications](https://openaccess.thecvf.com/content/WACV2024W/MaCVi/html/Gulsoylu_Image_and_AIS_Data_Fusion_Technique_for_Maritime_Computer_Vision_WACVW_2024_paper.html)*" presented at 2nd Workshop on Maritime Computer Vision (MaCVi) at WACV 2024. 
 
 ## Dataset
@@ -34,6 +32,8 @@ Please cite the following papers:
 ```
 
 The following paper is published at [IEEE Journal of Oceanic Engineering](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=48)
+
+[![PWC](https://img.shields.io/badge/Paper-IEEE_JOE-blue)](https://ieeexplore.ieee.org/abstract/document/11570774)
 ```
 @ARTICLE{holst2026fusing,
   author={Holst, Fabian and Gülsoylu, Emre and Frintrop, Simone},
