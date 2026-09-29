@@ -31,12 +31,17 @@ Please cite the following papers:
 }
 ```
 
-The following paper is currently under review at [IEEE Journal of Oceanic Engineering](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=48)
+The following paper is published at [IEEE Journal of Oceanic Engineering](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=48)
 ```
-@article{holst2025fusing,
-  title={Fusing monocular RGB images with AIS data to create a 6d pose estimation dataset for marine vessels},
-  author={Holst, Fabian and G{\"u}lsoylu, Emre and Frintrop, Simone},
-  journal={arXiv preprint arXiv:2508.14767},
-  year={2025}
+@ARTICLE{holst2026fusing,
+  author={Holst, Fabian and Gülsoylu, Emre and Frintrop, Simone},
+  journal={IEEE Journal of Oceanic Engineering}, 
+  title={Fusing Monocular RGB Images With AIS Data to Create a 3-D Bounding Box Estimation Data Set for Marine Vessels}, 
+  year={2026},
+  volume={51},
+  number={3},
+  pages={1676-1688},
+  keywords={Marine vehicles;Estimation;Annotations;Modeling;Planing;Signal detection;Water;Object detection;Cameras;Distance measurement;3-D bounding box estimation;automatic identification system (AIS);data fusion;ship detection},
+  doi={10.1109/JOE.2026.3695330}
 }
 ```
